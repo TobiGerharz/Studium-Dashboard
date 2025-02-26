@@ -13,18 +13,13 @@ Installationsanleitung Repository
    cd Studium-Dashboard
    ```
 
-3. **Virtuelle Umgebung erstellen** (optional, aber empfohlen):
-   ```sh
-   python3 -m venv venv
-   source venv/bin/activate  # Für Windows: venv\Scripts\activate
-   ```
 
-4. **Abhängigkeiten installieren**:
+3. **Abhängigkeiten installieren**:
    ```sh
    pip install -r requirements.txt
    ```
 
-5. **Anwendung starten**:
+4. **Anwendung starten**:
    ```sh
-   python main.py
+   python DashboardCodeV3.py
    ```
