@@ -1,0 +1,30 @@
+# Studium-Dashboard
+Gerharz-Tobias_92001677_Python_Dashboard
+
+Installationsanleitung Repository
+
+1. **Repository klonen**:
+   ```sh
+   git clone https://github.com/TobiGerharz/Studium-Dashboard.git
+   ```
+
+2. **In das Repository-Verzeichnis wechseln**:
+   ```sh
+   cd Studium-Dashboard
+   ```
+
+3. **Virtuelle Umgebung erstellen** (optional, aber empfohlen):
+   ```sh
+   python3 -m venv venv
+   source venv/bin/activate  # Für Windows: venv\Scripts\activate
+   ```
+
+4. **Abhängigkeiten installieren**:
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+5. **Anwendung starten**:
+   ```sh
+   python main.py
+   ```
